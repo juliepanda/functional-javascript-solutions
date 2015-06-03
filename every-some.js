@@ -1,3 +1,4 @@
+// not correct yet
 function checkUsersValid( goodUsers ) {
   return function allUsersValid( submittedUsers ) {
     goodUsers.every(function( e ) {
